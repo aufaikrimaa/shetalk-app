@@ -9,7 +9,7 @@ module.exports = {
     database: process.env.DB_NAME,
     host: process.env.DB_HOST,
     port: process.env.DB_PORT,
-    dialect: process.env.DB_DIALEG,
+    dialect: process.env.DB_DIALECT,
     timezone: process.env.TIMEZONE,
     dialectOptions: {
       bigNumberStrings: true,
@@ -21,7 +21,7 @@ module.exports = {
     database: process.env.CI_DB_NAME,
     host: process.env.CI_DB_HOST,
     port: process.env.CI_DB_PORT,
-    dialect: process.env.CI_DB_DIALEG,
+    dialect: process.env.CI_DB_DIALECT,
     timezone: process.env.CI_TIMEZONE,
     dialectOptions: {
       bigNumberStrings: true,
