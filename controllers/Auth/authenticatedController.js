@@ -25,8 +25,8 @@ const login = async (req, res) => {
     }
     if (user.token != null || user.token != undefined) {
       return await res.status(403).json({
-        success: false,
-        message: "Login gagal!, karena telah melakukan login sebelumnya!",
+        success: true,
+        message: "Login berhasil! Anda sudah masuk sebelumnya!",
         data: {
           id: user.id,
           name: user.name,
