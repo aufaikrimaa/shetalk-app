@@ -31,6 +31,14 @@ module.exports = {
           createdAt: new Date(),
           updatedAt: new Date(),
         },
+        {
+          name: "Aisyiyah Uswatun",
+          email: "aisyiyah@shetalk",
+          role: "ahli",
+          password: bcrypt.hashSync("shetalk", 10),
+          createdAt: new Date(),
+          updatedAt: new Date(),
+        },
       ],
       {}
     );
