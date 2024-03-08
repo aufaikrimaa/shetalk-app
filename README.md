@@ -1,4 +1,4 @@
-# Group Project Web Shetalk
+# Group Project Web SheTalk
 
 This Project is [Final Project Fullstack Web Development](https://github.com/impactbyte/full-stack-web-assignments/tree/master/Final-Project-Fullstack-Web-development) from the Skilvul Bootcamp Full Stack Web Development (Bootcamp Perempuan Inovasi 2023).
 I built this website with my team using ReactJS, Redux, Bootstrap, ExpressJ, MySQL. 
@@ -33,7 +33,7 @@ Each user has different features or access rights.
 
 ### Links
 
-- Live Site URL: [She Talk](https://shetalk-app.netlify.app/)
-- Live Site URL for Ahli: [She Talk for Ahli](https://shetalk-app.netlify.app/login.html)
+- Live Site URL: [SheTalk](https://shetalk-app.netlify.app/)
+- Live Site URL for Ahli: [SheTalk for Ahli](https://shetalk-app.netlify.app/login.html)
   - Login Ahli : email = ahli@shetalk, pw = password
 - Wireframe and Details : [BRD](https://www.figma.com/file/hlc31ZFnZWkNtzledk7fQk/Final-Deliverable---Dewi-Sartika)
