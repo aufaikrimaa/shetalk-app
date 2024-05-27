@@ -4,6 +4,8 @@ This Project is [Final Project Fullstack Web Development](https://github.com/imp
 I built this website with my team using ReactJS, Redux, Bootstrap, ExpressJ, MySQL. 
 **The code for the client-side can be found on the front-end branch, while the code for the server-side is located on the back-end branch**
 
+### Since the server is not deployed anymore because the free trial has ended, you can watch the demo here: [DEMO SHETALK](https://drive.google.com/file/d/1O4fVSXtCu_j6Xy0Fe2SSF8PFC3d-w2Nn/view?usp=sharing)
+
 ### Cover
 ![SheTalk](SheTalk.png)
 
