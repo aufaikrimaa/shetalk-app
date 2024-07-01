@@ -4,10 +4,11 @@ This Project is [Final Project Fullstack Web Development](https://github.com/imp
 I built this website with my team using ReactJS, Redux, Bootstrap, ExpressJ, MySQL. 
 **The code for the client-side can be found on the front-end branch, while the code for the server-side is located on the back-end branch**
 
-### Since the server is not deployed anymore because the free trial has ended, you can watch the demo here: [DEMO SHETALK](https://drive.google.com/file/d/1O4fVSXtCu_j6Xy0Fe2SSF8PFC3d-w2Nn/view?usp=sharing)
-
 ### Cover
 ![SheTalk](SheTalk.png)
+
+### Demo
+https://github.com/aufaikrimaa/shetalk-app/assets/160319056/9a8339cc-d7f0-4f1d-a3d7-2491dfe34718
 
 ### About
 Shetalk - A platform or forum where women can share their experiences, questions, and knowledge about reproductive and sexual health.
