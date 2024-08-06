@@ -4,7 +4,7 @@ This Project is [Final Project Fullstack Web Development](https://github.com/imp
 I built this website with my team using ReactJS, Redux, Bootstrap, ExpressJ, MySQL. 
 **The code for the client-side can be found on the front-end branch, while the code for the server-side is located on the back-end branch**
 
-### UI/UX Design
+### Product Design (UI/UX Design)
 You can access the SheTalk design here -> [Final Deliverable - SheTalk](https://www.figma.com/design/hlc31ZFnZWkNtzledk7fQk/Final-Deliverable---Dewi-Sartika?node-id=0-1&t=ETyIPOnw5f3XIYWQ-1)
 
 
